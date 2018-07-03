@@ -45,8 +45,8 @@ This would establish the django server atmosphere. To edit the code open the req
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+![Alt text](https://github.com/grandpriest/Spoj-Teller/blob/master/Spoj%20Teller/Screenshot%20(47).png)
 ## Acknowledgments
-* The project was done under the guidance and inspiration of **DR. ABHIJIT MUSTAFI** 
+* The project was done under the guidance of **DR. ABHIJIT MUSTAFI** 
 ,Associate Professor , Computer Science and Engg ,BIT Mesra.
 * The Code Segment of Stock repository of [anudeexCR7](https://github.com/anudeexCR7) was used.
