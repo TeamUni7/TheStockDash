@@ -1,7 +1,7 @@
 # The Stock Dash
 
-This project is a model dashboard for Stock Value Analysis. The Analysis includes predicting values of stock market indexes in the near future, analyzing historical data of the indexes graphically for any given period of time, crawling the live value of stock indexes and storing these values in the database for future analysis.
-The dashboard is a web app, developed using Django at the backend and Javascript, Jquery and D3 at the frontend.
+This project is a model dashboard for Stock Value Analysis.The dashboard is a web app, developed using Django at the backend and Javascript, Jquery and D3 at the frontend. The Analysis includes predicting values of stock market indexes in the near future, analyzing historical data of the indexes graphically for any given period of time, crawling the live value of stock indexes and storing these values in the database for future analysis.
+
 
 ![Alt text](https://github.com/TeamUni7/TheStockDash/blob/master/nsepredictor/Screenshot%20(64).png)
 
