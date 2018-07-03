@@ -1,7 +1,11 @@
 # The Stock Dash
 
 This project is a model dashboard for Stock Value Analysis. The Analysis include predicting values of stock market indexes in the near future, analysing historical data of the indexes graphically for any given period of time in period, crawling the live value of stock indexes and storing these values in database for future analysis.
-The dashboard is a web app developed using Django at the backend and Javascript,Jquery and D3 at the frontend.In broader terms,the project consists of following parts:
+The dashboard is a web app developed using Django at the backend and Javascript,Jquery and D3 at the frontend.
+
+![Alt text](https://github.com/TeamUni7/TheStockDash/blob/master/nsepredictor/Screenshot%20(64).png)
+
+In broader terms,the project consists of following parts:
 
 #### 1.Live Stock Values : 
 This division performs the function of web crawling for live value of NIFTY,SENSEX,GOLD(24 carat) and NASDAQ every minute and displays it. Also every day at 02:00 AM the crawled data is stored in the database in a JSON file.The web crawling is done using .get function of Jquery Ajax so that data can be stored without page refresh.
@@ -30,12 +34,14 @@ Just download the whole repository in zip format ,unzip it.
 1. Python IDE with pre installed Django package to set up a server atmosphre.(I used PyCharm).
 2. Proper internet connection as web crawling can't be done without it.
 ```
+![Alt text](https://github.com/TeamUni7/TheStockDash/blob/master/nsepredictor/Screenshot%20(61).png)
 ### Installing
 
 Download all the files of repository. Create a project in IDE and add the files of the repository to the project.Now run the command prompt and go the directory of the repository. Now to establish the server execute the following command:
 ```
 python manage.py runserver
 ```
+![Alt text](https://github.com/TeamUni7/TheStockDash/blob/master/nsepredictor/Screenshot%20(60).png)
 This would establish the django server atmosphere. To edit the code open the required file of the project in the IDE.
 
 ## Authors
@@ -45,7 +51,7 @@ This would establish the django server atmosphere. To edit the code open the req
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-![Alt text](https://github.com/grandpriest/Spoj-Teller/blob/master/Spoj%20Teller/Screenshot%20(47).png)
+
 ## Acknowledgments
 * The project was done under the guidance of **DR. ABHIJIT MUSTAFI** 
 ,Associate Professor , Computer Science and Engg ,BIT Mesra.
