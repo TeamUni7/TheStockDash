@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 * The project was done under the guidance of **DR. ABHIJIT MUSTAFI** 
 , Associate Professor, Computer Science, and Engg, BIT Mesra.
-* The Code Segment of Stock repository of [anudeexCR7](https://github.com/anudeexCR7) was used.
+* The Code Segment of Stock repository of [Anudeex Shetty](https://github.com/anudeexCR7) was used.
