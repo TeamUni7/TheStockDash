@@ -14,7 +14,7 @@ This division performs the function of web crawling for the live value of NIFTY,
 This division performs the function of showing the data stored in the database in a graphical format for analysis. The values of various indices are represented using the line graph. Here the programs load the data from the database and then on the basis of this data draws the graph using Data-Driven Documents(D3.js). The graph can also be zoomed to show the historical graph on for any given interval of date.
 
 #### 3.Predict Stock Values : 
-The value of stock indices stored in the database and used for creating graph can be used to predict the future values of stock. This division contains date input where one can enter the date at which we need to predict the stock values. For the given date the values of SENSEX,GOLD, and NASDAQ is calculated using Linear Regression and based upon these calculated values the value of NIFTY is calculated using Multi Regression. These calculations are performed using Javascript and Jquery.
+The value of stock indices stored in the database are used for creating graph can be used to predict the future values of stock. This division contains date input where one can enter the date at which we need to predict the stock values. For the given date the values of SENSEX,GOLD, and NASDAQ is calculated using Linear Regression and based upon these calculated values the value of NIFTY is calculated using Multi Regression. These calculations are performed using Javascript and Jquery.
 
 
 ## Getting Started
